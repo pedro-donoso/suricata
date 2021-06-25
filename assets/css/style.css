@@ -1,16 +1,20 @@
-.mia{
-background-color: #e83e8c;
+nav {
+  background-color: #e83e8c;
 }
 
-body{
-  font-family: 'Open Sans', sans-serif!important;
+body {
+  font-family: "Open Sans", sans-serif !important;
 }
 
-h1{
-   margin-top: 15rem!important;
+h1 {
+  margin-top: 15rem !important;
 }
 
-.list-group-item{
-    border-left: 1px solid transparent !important;
-    border-right: 1px solid transparent !important;
+.list-group-item {
+  border-left: 1px solid transparent !important;
+  border-right: 1px solid transparent !important;
+}
+
+footer {
+  background-color: #e83e8c;
 }
